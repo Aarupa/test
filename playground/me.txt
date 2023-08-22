@@ -1,5 +1,0 @@
- {{#user}}
-     Name: Aarti Lahane
-     Skills: Machine Learning and Data Science.
-     Email: aartilahane87@gmail.com
- {{/user}}
